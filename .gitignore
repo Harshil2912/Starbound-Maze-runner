@@ -37,6 +37,15 @@ crashpad_handler.exe
 Thumbs.db
 desktop.ini
 
+# Internal development notes & agent skill caches
+learning.md
+Assets/learning.md
+Assets/learning.md.meta
+.agents/
+Assets/.agents/
+skills-lock.json
+Assets/skills-lock.json
+
 # Android native build intermediates
 .utmp/
 [Aa]rchived*.zip
